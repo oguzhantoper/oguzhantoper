@@ -1,6 +1,13 @@
 ## Hi there 👋
 
 Hi! I'm Oğuzhan Toper.
+Electric Electronc Engineering student at Istanbul Gelisim University
+I'm taking lessons about Python.
+
+
+Merhaba! Ben Oğuzhan Toper.
+İstanbul gelişim üniversitesinde Elektrik-Elektronik mühendisliği öğrencisiyim.
+Python ile alakalı dersler görmekteyim.
 
 <!--
 **oguzhantoper/oguzhantoper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
