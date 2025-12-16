@@ -6,7 +6,7 @@ I'm taking lessons about Python.
 
 
 Merhaba! Ben Oğuzhan Toper.
-İstanbul gelişim üniversitesinde Elektrik-Elektronik mühendisliği öğrencisiyim.
+İstanbul Gelişim Üniversitesinde Elektrik-Elektronik mühendisliği öğrencisiyim.
 Python ile alakalı dersler görmekteyim.
 
 <!--
