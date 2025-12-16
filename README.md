@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hi! I'm Oğuzhan Toper.
+# Hi! I'm Oğuzhan Toper
 
 
 Electric Electronic Engineering student at Istanbul Gelisim University
@@ -10,7 +10,7 @@ I'm taking lessons about Python.
 
 
 
-# Merhaba! Ben Oğuzhan Toper.
+# Merhaba! Ben Oğuzhan Toper
 
 
 İstanbul Gelişim Üniversitesinde Elektrik-Elektronik mühendisliği öğrencisiyim.
